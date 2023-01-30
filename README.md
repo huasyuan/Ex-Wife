@@ -1,7 +1,7 @@
 # 《前妻》Ex-Wife Open Source Project
 
 
-
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1617620594128891904.svg?t=1)](https://www.murphysec.com/accept?code=42e50df760bf2afba33cd650ea108949&type=1&from=2&t=2)
 > ## 前言
 >
 > 开源平台：Github 
